@@ -1,7 +1,5 @@
-import project1 from "../assets/projects/project-1.jpg"
-import project2 from "../assets/projects/project-2.jpg"
-import project3 from "../assets/projects/project-3.jpg"
-import project4 from "../assets/projects/project-4.jpg"
+import project1 from "../assets/projects/project1.png"
+import project2 from "../assets/projects/project2.png"
 
 export const HERO_CONTENT = `I am Ritul Singh Passionate to web developer and also doing DSA.`;
 
@@ -51,7 +49,7 @@ export const PROJECTS=[
 ]
 
 export const CONTACT={
-  address:"Brahmputra Hostel Ashok Rajpath Patna 800006",
-  phoneNo:"+90 7378125935",
+  address:"Brahmputra Hostel, Ashok Rajpath, Patna, 800006",
+  phoneNo:"+91 7378125935",
   email:"ritulssoff000@gmail.com",
 }
