@@ -21,7 +21,7 @@ function Hero() {
             </div>
             <div className="w-full lg:w-1/2 lg:p-8">
                  <div className="flex justify-center">
-                    <img className="mx-10 w-40 rounded-xl" src={profile} alt="ritul singh" />
+                    <img className="mx-10 w-1/2 rounded-xl" src={profile} alt="ritul singh" />
                  </div>
             </div>
         </div>

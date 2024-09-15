@@ -10,7 +10,7 @@ function About() {
         <div className="flex flex-wrap">
             <div className="w-full lg:w-1/2 lg:p-8">
                 <div className="flex items-center justify-center">
-                    <img className="rounded-2xl w-full" src={about} alt="about" />
+                    <img className="rounded-2xl w-1/2" src={about} alt="about" />
                 </div>
             </div>
             <div className="w-full lg:w-1/2">

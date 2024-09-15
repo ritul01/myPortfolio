@@ -3,6 +3,9 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Tech from "./components/Tech";
+import Experience from "./components/Experience";
+import Projects from "./components/Projects";
+import Contact from "./components/Contact";
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
         <Hero/>
         <About/>
         <Tech/>
+        <Experience/>
+        <Projects/>
+        <Contact/>
       </div>
     </div>
   );
