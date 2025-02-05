@@ -8,14 +8,13 @@
 ## 🛠️ Technologies Used
 - React
 - JavaScript
-- HTML & CSS
+- HTML & Tailwind CSS
 - Vercel (for deployment)
 
 ## 📋 Features
 - Responsive design for all devices
 - Interactive UI/UX
 - Project showcase with details
-- Contact form integration
 
 ## 📦 Installation
 1. Clone this Repository
