@@ -17,7 +17,8 @@
 - Project showcase with details
 - Contact form integration
 
-## Installation
+## 📦 Installation
 1. Clone this Repository
-`bash
+```bash
 git clone git@github.com:ritul01/myPortfolio.git
+```
