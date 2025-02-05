@@ -42,4 +42,4 @@ Deployed using Vercel.
 ## 📧 Contact
 For any queries:
 - **Email:**[your.ritulsingh123700@gmail.com](mailto:ritulsingh123700@gmail.com)
-[Linkedin](https://www.linkedin.com/in/ritul-singh-7738a2227/)
+- [Linkedin](https://www.linkedin.com/in/ritul-singh-7738a2227/)
