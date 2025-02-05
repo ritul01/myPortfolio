@@ -1,3 +1,6 @@
 #  Ritul Singh - Portfolio
 
-## I am Ritul Singh currently doing B.Tech in Electrical Engineering and Passionate to be a web developer and also doing DSA.I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications., I have worked with a variety of technologies, including HTML, CSS, Javascript,React, Node.js, MySQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active and exploring new technologies.
+### This is my personal portfolio website showcasing my projects, skills, and experiences. Built using React and JavaScript, it provides an interactive and responsive user interface.
+
+## Live Demo
+[https://ritul-singh.vercel.app/](Live)
