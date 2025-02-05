@@ -2,5 +2,20 @@
 
 ### This is my personal portfolio website showcasing my projects, skills, and experiences. Built using React and JavaScript, it provides an interactive and responsive user interface.
 
-## Live Demo
-[Live](https://ritul-singh.vercel.app/)
+## 🚀 Live Demo
+[Ritul Singh - Portfolio](https://ritul-singh.vercel.app/)
+
+## 🛠️ Technologies Used
+- React
+- JavaScript
+- HTML & CSS
+- Vercel (for deployment)
+
+## 📋 Features
+- Responsive design for all devices
+
+- Interactive UI/UX
+
+- Project showcase with details
+
+- Contact form integration
